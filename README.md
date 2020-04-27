@@ -1,2 +1,2 @@
-# Capstone
-Capstone Project Code baseball sim
+# Capstone Project
+April, 2020
